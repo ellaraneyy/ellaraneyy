@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ellaraneyy
 - 👀 I’m interested in mechanical engineering... and learning more about different coding languages and what I can do with them! This is where I work on that.
 - 🌱 I’m currently learning MATLAB at the University of Florida
-- 📫 How to reach me: Message me on LinkedIn! https://www.linkedin.com/in/ellaraney/
+- 📫 Message me on LinkedIn! https://www.linkedin.com/in/ellaraney/
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have a collection of every state and U.S. territory quarter ever minted... except for Iowa. I'm always on the lookout.
 
